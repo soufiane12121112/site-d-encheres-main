@@ -1,0 +1,197 @@
+.bare{
+  margin-top: 30px;
+    font-family: 'Changa';
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+    height: 60px; 
+    background-color: #3498db; 
+}
+.bar{
+    margin-top: -60px;
+    font-family: 'Changa';
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+    height: 60px; 
+    background-color: #3498db; 
+ 
+}
+.liens {
+    text-decoration: none;
+    margin: -50px;
+    word-spacing: 10px;
+    margin-left: 800px;}
+    .title{
+        color: black;
+        width: 200px;
+        height: auto;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+  
+    }
+
+    .form{
+      margin-top: -10px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;         
+          max-width: 600px;
+          margin: 0 auto;
+          margin-top: 100px;
+          padding: 20px;
+          background-color: #f7f7f7;
+          border-radius: 10px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        input[type="text"], input[type="email"], input[type="tel"], input[type="number"],input[type="password"], select {
+            width: 70%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: none;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            font-size: 16px;
+          }
+          
+          /* Style des boutons */
+          button[type="submit"], input[type="submit"] {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+          }
+          .val{
+            margin-left: 400px;
+          }
+          .back-button{
+            margin-top: -40px;
+            margin-right: 400px;
+          }
+          button[type="submit"]:hover, input[type="submit"]:hover {
+            background-color:#3498db ;
+          }
+        .back-button{
+                background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+      body {
+          background-image: url(./images/SL-120722-54440-04.jpg);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+      }
+      .co {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 25px;
+        min-height: 100vh;
+        margin-top: 120px;
+        padding-bottom: 70px;
+    }
+    .co form{
+       padding: 20px;
+       width:700px;
+       background: #fff; 
+       box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+    }
+    .co form .ro{
+        display: flex;
+        flex-wrap: wrap;
+        gap:15px;
+    }
+    .co form .ro .col{
+        flex:1 1 250px;
+    }
+    .co form .ro .col .ti{
+        font-size: 20px;
+        color: #333;
+        padding-bottom: 5px;
+        text-transform:uppercase;
+    }
+    .co form .ro .col .inputbox{
+    margin:15px 0;
+    }
+    .co form .ro .col .inputbox span{
+        margin-bottom: 10px;
+        display: block;
+        }
+        .co form .ro .col .inputbox input{
+            width:100%;
+            border:1px solid #ccc;
+            padding: 10px 0px;
+            font-size:16px;
+            text-transform: none;
+        }
+        .co form .ro .col .inputbox input:focus{
+            border: 1px solid #000;
+        }
+        .co form .ro .col .fle{
+             display: flex;
+             gap:15px;
+        }
+        .co form .ro .col .fle .inputbox{
+            margin-top:5px;
+        }
+        .co form .ro .col .inputbox img{
+            height: 80px;
+            margin-top:100px;
+            filter: drop-shadow(0 0 1px #000);
+        } 
+    
+        .co form .submit-btn{
+            width:100%;
+            padding:12px;
+            font-size:17px;
+            background: #2d82eb;
+            color:#fff;
+            margin-top:5px;
+            cursor:pointer;
+        }
+        .co form .submit-btn:hover{
+            background: #4197ed;
+        }
+        .ima{
+          margin-top: -80px;
+        }
+        .coli{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 25px;
+          min-height: 100vh;
+          margin-top: -150px;
+          padding-bottom: 70px;
+        }
+        .coli form{
+          padding: 20px;
+          width:700px;
+          background: #fff; 
+          box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+          
+       }
+       .coli form .envy{
+        width:100%;
+        padding:12px;
+        font-size:17px;
+        background: #2d82eb;
+        color:#fff;
+        margin-top:20px;
+        cursor:pointer;
+    }
+    .coli form .envy:hover{
+        background: #4197ed;
+    }
+    
