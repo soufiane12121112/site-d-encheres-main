@@ -18,9 +18,8 @@ Application web permettant à des utilisateurs de s'inscrire, consulter des prod
 |---|---|
 | ![Accueil](screenshots/accueil.png) | ![Connexion](screenshots/connexion.png) |
 
-| Espace admin |
-|---|---|
-| ![Admin](screenshots/admin.png) |
+Espace admin
+![Admin](screenshots/admin.png)
 
 ## Stack technique
 
