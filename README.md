@@ -14,11 +14,13 @@ Application web permettant à des utilisateurs de s'inscrire, consulter des prod
 
 ## Captures d'écran
 
-| Page d'accueil | Connexion |
-|---|---|
-| ![Accueil](screenshots/accueil.png) | ![Connexion](screenshots/connexion.png) |
+### Page d'accueil
+![Accueil](screenshots/accueil.png)
 
-Espace admin
+### Connexion
+![Connexion](screenshots/connexion.png)
+
+### Espace admin
 ![Admin](screenshots/admin.png)
 
 ## Stack technique
