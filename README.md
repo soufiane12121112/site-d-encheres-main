@@ -18,9 +18,9 @@ Application web permettant à des utilisateurs de s'inscrire, consulter des prod
 |---|---|
 | ![Accueil](screenshots/accueil.png) | ![Connexion](screenshots/connexion.png) |
 
-| Espace admin | Détail d'une enchère |
+| Espace admin |
 |---|---|
-| ![Admin](screenshots/admin.png) | ![Enchère](screenshots/enchere.png) |
+| ![Admin](screenshots/admin.png) |
 
 ## Stack technique
 
