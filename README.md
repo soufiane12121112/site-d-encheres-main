@@ -72,8 +72,6 @@ site-d-encheres/
 
 ## Pistes d'amélioration
 
-- Passage aux requêtes préparées (PDO) sur l'ensemble des fichiers pour prévenir les injections SQL
-- Hachage des mots de passe (actuellement stockés en clair)
 - Migration vers un système d'enchères en temps réel (WebSocket) plutôt qu'un rechargement de page
 - Séparation claire des responsabilités (structure MVC)
 
