@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`nom`, `prenom`, `email`, `passwrd`) VALUES
-('AMRAOUI', 'soufiane1', 'elamraouisoufiane2@gmail.com', '12345');
+('AMRAOUI', 'soufiane1', 'elamraou@gmail.com', '12345');
 
 -- --------------------------------------------------------
 
@@ -77,7 +77,7 @@ CREATE TABLE `client` (
 --
 
 INSERT INTO `client` (`nom`, `prenom`, `email`, `passwrd`, `id_client`) VALUES
-('Soufiane', 'EL AMRAOUI', 'elamraouisoufiane6@gmail.com', '1234', 2);
+('Soufiane', 'client', 'client@gmail.com', '1234', 2);
 
 -- --------------------------------------------------------
 
@@ -114,10 +114,10 @@ CREATE TABLE `messages` (
 --
 
 INSERT INTO `messages` (`id_msg`, `name`, `email`, `subject`, `message`) VALUES
-(1, 'soufiane', 'elamraouisoufiane2@gmail.', 'stagier', 'hello everyone'),
-(2, 'yassine', 'elamraouisoufiane6@gmail.', 'stagier', 'hello please contact me'),
-(4, 'soufiane', 'elamraouisoufiane16@gmail', 'stagier', 'hii'),
-(5, 'soufiane', 'elamraouisoufiane16@gmail', 'stagier', 'hii');
+(1, 'soufiane', 'elamr@gmail.', 'stagier', 'hello everyone'),
+(2, 'yassine', 'elamra@gmail.', 'stagier', 'hello please contact me'),
+(4, 'soufiane', 'elamrao@gmail', 'stagier', 'hii'),
+(5, 'soufiane', 'elamraou@gmail', 'stagier', 'hii');
 
 -- --------------------------------------------------------
 
