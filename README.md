@@ -12,6 +12,16 @@ Application web permettant à des utilisateurs de s'inscrire, consulter des prod
 - **Messagerie / Contact** — Formulaire de contact et système de messages entre utilisateurs et administration.
 - **Paiement** — Interface de paiement suite à une enchère remportée.
 
+## Captures d'écran
+
+| Page d'accueil | Connexion |
+|---|---|
+| ![Accueil](screenshots/accueil.png) | ![Connexion](screenshots/connexion.png) |
+
+| Espace admin | Détail d'une enchère |
+|---|---|
+| ![Admin](screenshots/admin.png) | ![Enchère](screenshots/enchere.png) |
+
 ## Stack technique
 
 | Côté | Technologies |
@@ -70,4 +80,4 @@ site-d-encheres/
 
 **Soufiane EL AMRAOUI**
 Étudiant en Master Intelligence Artificielle et Cybersécurité
-[LinkedIn](https://www.linkedin.com) · elamraouisoufiane2@gmail.com
+[LinkedIn](https://www.linkedin.com/in/soufiane-el-amraoui-92868a2a6/) · elamraouisoufiane2@gmail.com
